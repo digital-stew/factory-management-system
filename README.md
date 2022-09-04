@@ -1,6 +1,6 @@
 # factory-management-system
-default user: admin
-default pass: admin
+default user: admin \n
+default pass: admin \n
 example environment variables:
 
 HTTP=on
