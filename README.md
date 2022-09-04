@@ -4,7 +4,7 @@ default user: admin
 
 default pass: admin
 
-example environment variables:
+example environment variables: ( can use a .env file )
 
   HTTP=on
 
